@@ -1,0 +1,53 @@
+/*🔹 background-color 🎨
+
+🔹 border-radius  (It can be applied to any corner. All or some  are acceptable. Any variant is accepted)   🔵
+
+🔹 width 📏
+
+🔹 height 📐
+
+🔹 margin  ( It can be applied to any side. All or some sides are acceptable. Any variant is accepted  )   📦
+
+🔹 padding  ( It can be applied to any side. All or some sides are acceptable. Any variant is accepted  )   🧩
+
+🔹 text-align 📝
+
+🔹 color 🌈*/
+
+body {
+    background-color: rgb(250, 226, 206);
+}
+
+header {
+    width: 100%;
+    background-color: firebrick;
+    color: whitesmoke;
+    padding: 20px;
+    text-align: center;
+    border-radius: 20px;
+}
+
+section {
+    width: 100%;
+}
+
+section p {
+    text-align: justify;
+    margin: 20px;
+}
+
+h2 {
+    margin: 20px;
+    color: midnightblue;
+}
+
+footer {
+    width: 100%;
+    background-color: firebrick;
+    color: whitesmoke;
+    padding: 10px;
+    border-radius: 20px;
+    text-align: center;
+    height: 50px;
+
+}
